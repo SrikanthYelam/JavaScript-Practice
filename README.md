@@ -1,2 +1,3 @@
 # JavaScript-Practice
-Contains code samples of JavaScript
+Contains code samples (including description) of JavaScript
+Practiced using jsfiddle.net
